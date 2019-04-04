@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "138238705878",
+    "firebase_url": "https://instagranfirebase-e7ce6.firebaseio.com",
+    "project_id": "instagranfirebase-e7ce6",
+    "storage_bucket": "instagranfirebase-e7ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138238705878:android:a468ba69a255948e",
+        "android_client_info": {
+          "package_name": "br.com.madeiramadeira.instagranfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138238705878-77smatc850h8ei3nfh0vu04u1qeu953f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.madeiramadeira.instagranfirebase",
+            "certificate_hash": "cc2963278985ee7c19936854268ac78259370619"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaFBh1Rxdr_rujIgJNVvJ8Aw_e6nBFoMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138238705878-62i1a4odi68hshotan6dfodu0q1f1pip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
